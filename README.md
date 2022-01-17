@@ -1,3 +1,3 @@
-hi
+~2 years of webdev
 
-most public repos i have aren't that great
+while i've used git for the majority of the time, it's just been me, so i'm still somewhat new
