@@ -1,3 +1,3 @@
-~2 years of webdev
+I've spent ~2 years playing with web development.
 
-while i've used git for the majority of the time, it's just been me, so i'm still somewhat new
+While I've used Git for the majority of the time, it's just been me, so I'm still somewhat new.
